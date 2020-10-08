@@ -1,0 +1,1 @@
+This is a project for learning and practicing flexbox layouts. I developed it while taking the online course 'Advanced CSS and Sass'. The page design and images used to build it are not of my authory, but from Jonas Schmedtmann, creator of the course.
